@@ -1,10 +1,7 @@
 
 # Convers AI
 
-ComversAI is a chat application that leverages cutting-edge AI to provide seamless communication experiences. The project is built using modern web technologies including React, Express.js ,  TypeScript, Next.js, and Redux. It includes responsive UI components, a chat interface, a scroll area, and a share button for ease of use.
-
-
-
+ComversAI is a chat application that leverages cutting-edge AI to provide seamless communication experiences. The project is built using modern web technologies including React, Express.js , TypeScript, Next.js, and Redux.
 
 ## Features
 
